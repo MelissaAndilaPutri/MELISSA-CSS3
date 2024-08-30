@@ -14,5 +14,9 @@ body {
      }
 #nav li {
         display: inline; 
-        margin-right: 10px; 
+        margin-right: 25px; 
         }
+#nav a { 
+            color: rgb(56, 27, 182);
+            text-decoration: none; 
+            }
