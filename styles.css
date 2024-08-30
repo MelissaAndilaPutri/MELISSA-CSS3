@@ -25,3 +25,7 @@ body {
             flex-wrap: wrap; 
             padding: 60px; 
         }
+#projects-list, #project-description { 
+            flex: 10; 
+            margin: 0px; 
+            }
