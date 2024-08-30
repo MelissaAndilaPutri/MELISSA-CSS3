@@ -15,17 +15,26 @@ body {
 #nav li {
         display: inline; 
         margin-right: 25px; 
-        }
+         }
 #nav a { 
             color: rgb(56, 27, 182);
             text-decoration: none; 
-         }
+             }
  #main {
             display: flex; 
             flex-wrap: wrap; 
             padding: 60px; 
-        }
+          }
 #projects-list, #project-description { 
             flex: 10; 
             margin: 0px; 
             }
+#footer {
+                background-color: #7e7d7d;
+               color: white; 
+               text-align: center; 
+               padding: 0px; 
+               position: relative; 
+               bottom: 0; 
+               width: 100%;
+             }
