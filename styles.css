@@ -19,4 +19,9 @@ body {
 #nav a { 
             color: rgb(56, 27, 182);
             text-decoration: none; 
-            }
+         }
+ #main {
+            display: flex; 
+            flex-wrap: wrap; 
+            padding: 60px; 
+        }
