@@ -38,3 +38,12 @@ body {
                bottom: 0; 
                width: 100%;
              }
+/* Media Queries untuk tampilan responsif */
+@media screen and (max-width: 0px) {
+    #main {
+    flex-direction: column-reverse;
+    }
+    #footer {
+    position: sticky;
+    }
+   }
